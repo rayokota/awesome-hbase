@@ -1,3 +1,5 @@
+[<img src="https://cdn.rawgit.com/rayokota/awesome-hbase/a8c487f2/hbase_logo_with_orca.png" align="right">](http://hbase.apache.org/)
+
 # Awesome HBase [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 

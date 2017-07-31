@@ -6,3 +6,4 @@
 - Submit only one link at the time.
 - Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
 - Make sure that the new entry doesn't contain trailing whitespace.
+- Order projects alphabetically within each category.

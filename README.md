@@ -74,6 +74,7 @@ A curated list of awesome HBase projects and resources.
 
 #### SQL/OLAP
 
+* [EsgynDB](https://esgyn.com/) - Commercial SQL engine providing ACID transactions and BI analytics on top of Hadoop, based on Trafodian.
 * [Kylin](http://kylin.apache.org) - Extreme OLAP engine for big data that stores data in HBase.
 * [LeanXScale](http://www.leanxcale.com) - Commercial full ACID full SQL product built on Hadoop/HBase.
 * [Phoenix](https://phoenix.apache.org) - SQL layer on top of HBase.
@@ -114,7 +115,7 @@ A curated list of awesome HBase projects and resources.
 
 ### Miscellaneous
 
-* [Hubspot HBase support](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
+* [HubSpot HBase support](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
 
 ## Resources
 

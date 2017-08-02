@@ -104,7 +104,7 @@ A curated list of awesome HBase projects and resources.
 ### Integrations
 
 * [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/main/java/com/datatorrent/contrib/hbase) - Apex-HBase connector.
-* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase/src/main/java/org/apache/beam/sdk/io/hbase) - Beam HBase integration.
+* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration.
 * [Cascalog](https://github.com/sorenmacbeth/hbase-cascalog) - Wrapper around cascading.hbase for use in Cascalog.
 * [Drill](https://drill.apache.org/docs/querying-hbase/) - HBase storage plugin for Drill.
 * [Elasticsearch](https://github.com/mallocator/Elasticsearch-HBase-River) - Elasticsearch import river for HBase.

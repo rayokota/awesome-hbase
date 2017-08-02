@@ -113,7 +113,8 @@ A curated list of awesome HBase projects and resources.
 
 * [Ambari](https://ambari.apache.org) - Software for provisioning, managing, and monitor Hadoop/HBase clusters.
 * [Cloudera Manager](https://www.cloudera.com/products/product-components/cloudera-manager.html) - Tool for managing Hadoop/HBase in production.
-* [Hannibal](https://github.com/sentric/hannibal) - Tools to monitor and maintain HBase clusters.
+* [Hannibal](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters.
+* [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.
 
 ### Miscellaneous
 

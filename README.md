@@ -126,6 +126,7 @@ A curated list of awesome HBase projects and resources.
 * [DbSchema](http://www.dbschema.com/index.html) - Diagram-oriented database designer with support for HBase.
 * [Hannibal](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters.
 * [h-rider](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase.
+* [Hue](http://gethue.com) - Smart analytics workbench that includes an HBase browser.
 * [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.
 
 ### Miscellaneous

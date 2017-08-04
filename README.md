@@ -85,7 +85,7 @@ A curated list of awesome HBase projects and resources.
 
 * [Axibase](http://axibase.com/products/axibase-time-series-database/) - Distributed time series database built on HBase.
 * [OpenTSDB](http://opentsdb.net) - Scalable time series database built on HBase.
-* [Warp10](http://www.warp10.io) - Time series database for sensor data.
+* [Warp 10](http://www.warp10.io) - Time series database for sensor data.
 
 ### Infrastructure
 

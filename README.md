@@ -43,7 +43,9 @@ A curated list of awesome HBase projects and resources.
 
 * [Amazon EMR](https://aws.amazon.com/emr/) - Amazon's Hadoop/HBase offering on AWS.
 * [Azure HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) - Microsoft's Hadoop/HBase offering on Azure.
+* [Cloudera Director](https://www.cloudera.com/products/product-components/cloudera-director.html) - Run Hadoop clusters on AWS, Azure or Google Cloud.
 * [Google Cloud Bigtable](https://cloud.google.com/bigtable/) - High-performance NoSQL database service accessible via HBase client API.
+* [Hortonworks Cloudbreak](https://hortonworks.com/open-source/cloudbreak/) - Provision Hadoop clusters on AWS, Azure, Google Cloud, or OpenStack.
 
 ### Frameworks
 

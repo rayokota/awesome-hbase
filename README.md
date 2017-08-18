@@ -140,7 +140,7 @@ A curated list of awesome HBase projects and resources.
 ### Books
 
 * [HBase in Action](https://www.manning.com/books/hbase-in-action) - Experience-driven guide that shows you how to use HBase.
-* [HBase: The Definitive Guide, 2nd Edition](http://shop.oreilly.com/product/0636920033943.do) - Comprehensive guide to HBase.
+* [HBase: The Definitive Guide](http://shop.oreilly.com/product/0636920014348.do) - Comprehensive guide to HBase.
 * [Architecting HBase Applications](http://shop.oreilly.com/product/0636920035688.do) - Includes HBase principles, cluster guidelines, and in-depth case studies.
 * [HBase Administration Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/hbase-administration-cookbook) - How to master HBase configuration and administration.
 * [HBase Essentials](https://www.packtpub.com/big-data-and-business-intelligence/hbase-essentials) - A practical guide to using HBase.

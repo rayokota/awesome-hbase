@@ -78,6 +78,7 @@ A curated list of awesome HBase projects and resources.
 
 #### SQL/OLAP
 
+* [AntsDB](http://antsdb.com/) - AntsDB is a low latency, high concurrency, MySQL compliant SQL layer for HBase.
 * [EsgynDB](https://esgyn.com/) - Commercial SQL engine providing ACID transactions and BI analytics on top of Hadoop, based on Trafodian.
 * [Kylin](http://kylin.apache.org) - Extreme OLAP engine for big data that stores data in HBase.
 * [LeanXScale](http://www.leanxcale.com) - Commercial full ACID full SQL product built on Hadoop/HBase.

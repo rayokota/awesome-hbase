@@ -127,6 +127,7 @@ A curated list of awesome HBase projects and resources.
 * [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector.
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
 * [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.
+* [Zeppelin](https://zeppelin.apache.org/docs/0.6.2/interpreter/hbase.html) - HBase shell interpreter for Apache Zeppelin.
 
 ### Tools
 

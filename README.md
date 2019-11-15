@@ -110,7 +110,7 @@ A curated list of awesome HBase projects and resources.
 
 ### Integrations
 
-* [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/main/java/com/datatorrent/contrib/hbase) - Apex-HBase connector.
+* [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/test/java/org/apache/apex/malhar/contrib/hbase) - Apex-HBase connector.
 * [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration.
 * [Camel](http://camel.apache.org/hbase.html) - Camel HBase component.
 * [Cascading](https://github.com/Cascading/cascading.hbase) - HBase adapters for Cascading.

@@ -74,6 +74,7 @@ A curated list of awesome HBase projects and resources.
 #### Graph
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase.
 * [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database.
+* [HugeGraph](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than 10+ billion data, high performance and scalability.
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [NebulaGraph](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
